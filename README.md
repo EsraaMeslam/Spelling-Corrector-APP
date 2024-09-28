@@ -1,4 +1,3 @@
-# Spelling-Corrector-APP
 # Real-Time Spell Checker Web App
 
 This is a simple web application built using Python, Flask, and Natural Language Processing (NLP) techniques to provide real-time spell checking and correction for user-inputted text.
